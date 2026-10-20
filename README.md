@@ -4,6 +4,8 @@
 
 주소: https://mrwoodypark.github.io/pilgrims-progress-privacy/
 
+개발자: WoodyyVerse · 문의: [woodyyverse@gmail.com](mailto:woodyyverse@gmail.com)
+
 GitHub Pages 게시 대상은 이 폴더의 `index.html`, `.nojekyll` 및 이 안내 문서입니다.
 
 앱 소스 저장소의 `Docs/PrivacyPolicy.ko.md`를 수정한 뒤 `python3 Tools/BuildPrivacyPage.py`를 실행하면 HTML을 다시 생성할 수 있습니다.
